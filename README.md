@@ -11,3 +11,5 @@ A simple React game where you try to catch a rat as it appears in random holes.
 - React
 - CSS
 - JavaScript
+
+Catch the mole and create your new high score 😉
